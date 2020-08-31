@@ -1,0 +1,14 @@
+{
+  "name": "colorclock",
+  "version": "1.0.0",
+  "description": "my first package.json file TEST!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
