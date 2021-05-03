@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motaz99/npm-lab-re-coded_istanbul_web003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motaz99/npm-lab-re-coded_istanbul_web003/issues"
+  },
+  "homepage": "https://github.com/motaz99/npm-lab-re-coded_istanbul_web003#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
